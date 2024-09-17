@@ -1,0 +1,24 @@
+.center {
+    text-align: center;
+}
+
+body {
+    font-family: "Roboto Slab", serif;
+}
+
+.btn {
+    width: 60px;
+    height: 60px;
+}
+
+.big {
+    width: 120px;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+input::placeholder{
+    text-align: center;
+}
